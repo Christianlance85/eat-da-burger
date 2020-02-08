@@ -24,10 +24,6 @@ SO THAT I can devour them.
 With GitHub account, clone or download repository using link. 
 
 
-## Business Context
-For users that need to keep track of a lot of Employees, you are able to do multiple things with this
-command line application. You can add/update/delete departments, roles, and employees.
-
 ## Schema:
 CREATE DATABASE burgers_db;
 USE burgers_db;
